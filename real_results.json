@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "Telco",
+    "wall_seconds": 8.502,
+    "models": {
+      "hgb_small": 0.667,
+      "logreg": 0.333
+    },
+    "timeout": false,
+    "accuracy": 0.7864849517319704,
+    "balanced_accuracy": 0.7507057776130319,
+    "macro_f1": 0.7383994917616716,
+    "roc_auc": 0.8498472607885514
+  },
+  {
+    "dataset": "Maintenance",
+    "wall_seconds": 6.5,
+    "models": {
+      "hgb_small": 0.75,
+      "hgb": 0.25
+    },
+    "timeout": false,
+    "accuracy": 0.9816,
+    "balanced_accuracy": 0.8939958592132505,
+    "macro_f1": 0.868852608578636,
+    "roc_auc": 0.9718182925344051
+  },
+  {
+    "dataset": "Mall",
+    "wall_seconds": 1.857,
+    "models": {
+      "gmm_full/num": 1.0
+    },
+    "timeout": false,
+    "clusters": 5,
+    "note": "Five clusters assumed for this example; no ground-truth labels supplied."
+  }
+]
