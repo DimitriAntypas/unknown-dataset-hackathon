@@ -21,7 +21,7 @@
    python evaluate.py
    ```
 
-4. To create a GitHub repository, upload the extracted project files to the repository root.
+4. Upload or update the extracted project files in https://github.com/DimitriAntypas/unknown-dataset-hackathon.
    Keep `main.py`, `supervisor.py`, `requirements.txt`, `README.md`, all three test files,
    and the other included source files together. Include `.github/workflows/ci.yml`.
    Make the repository public. Do not upload virtual environments, generated outputs,
@@ -31,7 +31,7 @@
 6. At kickoff, use the professor's exact command, metadata and output specification.
    Adapt this code if necessary and run the official checker on all nine official practice datasets.
    The package currently assumes the command-line and CSV/profile formats documented in README.md.
-7. Submit the public repository URL according to the professor's deadline instructions.
+7. Submit https://github.com/DimitriAntypas/unknown-dataset-hackathon according to the professor's deadline instructions.
 
 No website is required. The existing GitHub instructions PDF is a general guide;
 this file and README.md describe the revised package, including its new supervisor module.

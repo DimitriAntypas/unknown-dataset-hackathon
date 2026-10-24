@@ -2,12 +2,12 @@
 
 **Team:** Georgio Sleiman, Andrew Sleiman, Carla Doumit, Dimitri Antypas
 
-**GitHub repository:** REPLACE_WITH_YOUR_PUBLIC_GITHUB_REPOSITORY_URL
+**GitHub repository:** https://github.com/DimitriAntypas/unknown-dataset-hackathon
 
-**Google Colab notebook:** REPLACE_WITH_YOUR_SHARED_COLAB_NOTEBOOK_URL
+**Google Colab notebook:** Included as `Unknown_Dataset_Hackathon.ipynb`; a shared Colab link is optional.
 
-Replace the GitHub placeholder before submission. A shared Colab link is optional unless separately requested.
-No live repository or Colab notebook has been created by this package. The brief specifies three students per team;
+The GitHub repository above is the submission link. The included notebook can also run in Colab;
+a shared Colab link is optional unless separately requested. The brief specifies three students per team;
 confirm an exception before submitting the four names above.
 
 - `Unknown_Dataset_Hackathon.ipynb`: self-contained Google Colab notebook. Upload it to Colab and run the numbered cells.

@@ -47,7 +47,7 @@ Machine-readable environment, test counts, benchmark metrics and model selection
 
 ## Remaining submission requirements and limitations
 
-- Replace the GitHub repository placeholder with a real public repository URL. A Colab link is optional unless separately requested.
+- The submission repository URL is https://github.com/DimitriAntypas/unknown-dataset-hackathon. The README includes this URL. A Colab link is optional unless separately requested.
 - The supplied four team names are preserved. The brief specifies three students per team, so confirm an exception or update the team before submission.
 - Run the official checker after adapting the entry command, metadata and output schema to the kickoff specification. Those materials and the nine official practice datasets were not supplied.
 - Strongly non-convex clustering remains a performance limitation; the noisy two-moons result is reported above.
